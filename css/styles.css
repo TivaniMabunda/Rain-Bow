@@ -1,4 +1,9 @@
 div {
     height: 22vw;
     width: 100%;
+    background-color: grey;
+}
+
+h1 {
+    color: aquamarine;
 }
